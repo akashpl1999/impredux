@@ -1,0 +1,25 @@
+/* 
+ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px;
+    background-color: lightblue;
+  }
+
+li{
+    margin:10px;
+
+}
+   div.card{
+
+
+   margin: 5px;
+   border: 1px solid #ccc;
+   float: left;
+   width: 180px;
+   background-color: aquamarine;
+
+
+} */

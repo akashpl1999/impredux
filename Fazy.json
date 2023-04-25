@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Apple",
+            "color": "Red",
+            "category": "Fruit"
+        },
+        {
+            "id": 2,
+            "name": "Apple",
+            "color": "Green",
+            "category": "Fruit"
+        },
+        {
+            "id": 3,
+            "name": "Ball",
+            "color": "Red",
+            "category": "Toy"
+        },
+        {
+            "id": 4,
+            "name": "Ball",
+            "color": "Blue",
+            "category": "Toy"
+        },
+        {
+            "id": 5,
+            "name": "Banana",
+            "color": "Yellow",
+            "category": "Fruit"
+        },
+        {
+            "id": 6,
+            "name": "Carrot",
+            "color": "Orange",
+            "category": "Vegetable"
+        },
+        {
+            "id": 7,
+            "name": "Dog",
+            "color": "Brown",
+            "category": "Animal"
+        },
+        {
+            "id": 8,
+            "name": "Elephant",
+            "color": "Gray",
+            "category": "Animal"
+        },
+        {
+            "id": 9,
+            "name": "Flower",
+            "color": "Pink",
+            "category": "Plant"
+        },
+        {
+            "id": 10,
+            "name": "Guitar",
+            "color": "Black",
+            "category": "Instrument"
+        }
+    ]
+}

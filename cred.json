@@ -1,0 +1,53 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Sales",
+        "employees": [
+          {
+            "id": 1,
+            "name": "A1",
+            "position": "Manager"
+          },
+          {
+            "id": 2,
+            "name": "A2",
+            "position": "Sales Associate"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "IT",
+        "employees": [
+          {
+            "id": 3,
+            "name": "B1",
+            "position": "Developer"
+          },
+          {
+            "id": 4,
+            "name": "B2",
+            "position": "QA Engineer"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Marketing",
+        "employees": [
+          {
+            "id": 5,
+            "name": "C1",
+            "position": "Marketing Manager"
+          },
+          {
+            "id": 6,
+            "name": "C2",
+            "position": "Graphic Designer"
+          }
+        ]
+      }
+    ]
+  }
+  
